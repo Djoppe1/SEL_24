@@ -1,6 +1,6 @@
 # Cheat sheets en checklists
 
-> Student: VOORNAAM FAMILIENAAM
+> Student: Joppe Lefever
 
 ## Basiscommando's
 
