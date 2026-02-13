@@ -14,7 +14,7 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 | Joppe Lefever | [Djoppe1](https://github.com/Djoppe1) |
 | Tuur Jolie | [username](https://github.com/username) |
 | Dylan Gosseye | [DylanGosseye](https://github.com/DylanGosseye) |
-| Kas Ally | [username](https://github.com/username) |
+| Kas Ally | [HoKasGent](https://github.com/HoKasGent) |
 
 ## Inhoudstafel
 
