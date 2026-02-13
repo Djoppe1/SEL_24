@@ -10,11 +10,11 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 
 | Name      | GitHub username                         |
 | :-------- | :-------------------------------------- |
-| Student 1 | [username](https://github.com/username) |
-| Student 2 | [username](https://github.com/username) |
-| Student 3 | [username](https://github.com/username) |
-| Student 4 | [username](https://github.com/username) |
-| Student 5 | [username](https://github.com/username) |
+| Saar Bieseman | [username](https://github.com/username) |
+| Joppe Lefever | [username](https://github.com/username) |
+| Tuur Jolie | [username](https://github.com/username) |
+| Dylan Gosseye | [username](https://github.com/username) |
+| Kas Ally | [username](https://github.com/username) |
 
 ## Inhoudstafel
 
