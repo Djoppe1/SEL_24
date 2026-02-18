@@ -13,7 +13,6 @@
 | Herstart een service                                   | `sudo systemctl restart SERVICE` |
 | Update de package repositories (Ubuntu & Debian based) | `sudo apt update`                |
 | Installeer een package (Ubuntu & Debian based)         | `sudo apt install PACKAGE`       |
-
 | Veranderen vand directory, door je mappen te bladeren      | `ip a`                           |
 | Toont alle bestanden, incl. verborgen bestanden en details | `systemctl status SERVICE`       |
 | Toont working directory                                    | `sudo systemctl start SERVICE`   |
