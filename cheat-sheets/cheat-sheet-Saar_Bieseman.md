@@ -14,6 +14,15 @@
 | Update de package repositories (Ubuntu & Debian based) | `sudo apt update`                |
 | Installeer een package (Ubuntu & Debian based)         | `sudo apt install PACKAGE`       |
 
+| Veranderen vand directory, door je mappen te bladeren      | `ip a`                           |
+| Toont alle bestanden, incl. verborgen bestanden en details | `systemctl status SERVICE`       |
+| Toont working directory                                    | `sudo systemctl start SERVICE`   |
+| Om te testen of een server of website bereikbaar is        | `sudo systemctl stop SERVICE`    |
+| Print de inhoud van een bestand direct in je terminal      | `sudo systemctl restart SERVICE` |
+| Maakt een script uitvoerbaar                               | `sudo apt update`                |
+| Herstart het systeem direct vanaf de CLI                   | `sudo apt install PACKAGE`       |
+
+
 ## Git workflow
 
 Simpele git workflow voor projecten met een enkele branch en zonder contributors.
@@ -25,9 +34,9 @@ Simpele git workflow voor projecten met een enkele branch en zonder contributors
 | Commit alle wijzigingen naar de lokale repository                     | `git commit -m 'MESSAGE'` |
 | Push lokale wijzigingen naar de remote repository                     | `git push`                |
 | Haal alle wijzigingen van de remote repository binnen in de lokale    | `git pull`                |
-| Bestand verwijderen met behoud van de wijzigingen in de werkdirectory | `git reset FILE...`       |
-| Verwijder het bestand van het project                                 | `git rm FILE...`          |
-| Gewijzigde en voorbereide wijzigingen opslaan                         | `git stash`               |
+| Kopieert een bestaande repository van GitHub naar je eigen computer   | `git clone URL`           |
+| Maakt van een lokale map op je computer een nieuwe Git-repository     | `git init`                |
+| Toont de geschiedenis van alle commits die in het project zijn gedaan | `git log`                 |
 
 ## Checklist netwerkconfiguratie
 
