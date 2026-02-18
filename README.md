@@ -12,7 +12,7 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 | :-------- | :-------------------------------------- |
 | Saar Bieseman | [saarbieseman](https://github.com/saarbieseman) |
 | Joppe Lefever | [Djoppe1](https://github.com/Djoppe1) |
-| Tuur Jolie | [username](https://github.com/username) |
+| Tuur Jolie | [TuurJolie](https://github.com/TuurJolie) |
 | Dylan Gosseye | [DylanGosseye](https://github.com/DylanGosseye) |
 | Kas Ally | [HoKasGent](https://github.com/HoKasGent) |
 
