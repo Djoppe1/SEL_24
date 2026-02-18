@@ -18,13 +18,16 @@
 
 Simpele git workflow voor projecten met een enkele branch en zonder contributors.
 
-| Task                                                               | Command                   |
-| :----------------------------------------------------------------- | :------------------------ |
-| Status van het huidige project                                     | `git status`              |
-| Selecteer te committen bestanden                                   | `git add FILE...`         |
-| Commit alle wijzigingen naar de lokale repository                  | `git commit -m 'MESSAGE'` |
-| Push lokale wijzigingen naar de remote repository                  | `git push`                |
-| Haal alle wijzigingen van de remote repository binnen in de lokale | `git pull`                |
+| Task                                                                  | Command                   |
+| :-------------------------------------------------------------------- | :------------------------ |
+| Status van het huidige project                                        | `git status`              |
+| Selecteer te committen bestanden                                      | `git add FILE...`         |
+| Commit alle wijzigingen naar de lokale repository                     | `git commit -m 'MESSAGE'` |
+| Push lokale wijzigingen naar de remote repository                     | `git push`                |
+| Haal alle wijzigingen van de remote repository binnen in de lokale    | `git pull`                |
+| Bestand verwijderen met behoud van de wijzigingen in de werkdirectory | `git reset FILE...`       |
+| Verwijder het bestand van het project                                 | `git rm FILE...`          |
+| Gewijzigde en voorbereide wijzigingen opslaan                         | `git stash`               |
 
 ## Checklist netwerkconfiguratie
 
