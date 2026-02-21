@@ -58,21 +58,19 @@ Beschrijf hieronder eventuele problemen die jullie zijn tegengekomen tijdens het
 
 Als jullie geen problemen zijn tegengekomen, schrijf dan "geen problemen ondervonden".
 
+**Saar Bieseman**: geen problemen ondervonden
+
 ### Probleem 1 - Korte beschrijving van het probleem
 
 Beschrijf hier het probleem uitgebreid met screenshots, code snippets, enz. en de oplossing die jullie al dan niet hebben gevonden.
 
-## Voorbereiding demo
-
-Beschrijf hier hoe je elk evaluatiecriterium zal demonstreren. Geef ook aan welke bestanden, commando's, enz. je zal gebruiken tijdens de demo.
 
 ## Reflecties
 
-Maak werk van een degelijke reflectie over de opdracht.
+**Saar Bieseman**
 
-Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
+Deze opdracht ging voor mij best vlot. De instucties waren duidelijk uitgelegd waardoor ik de opdracht vlot kon uitwerken. Van deze opdracht heb ik geleerd dat je op een veel gemakkelijkere manier applicaties kan installeren aan de hand van scripts. Het is even zoeken, maar uiteindelijk bespaar je zoveel meer tijd. Deze nieuwigheid ga ik zeker onthouden en nog gebruiken.
 
-Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij om ze te delen.
 
 ## Bronnen
 GrantMeStrength. (z.d.). Use WinGet to install and manage applications. Microsoft Learn. https://learn.microsoft.com/en-us/windows/package-manager/winget/
@@ -120,6 +118,7 @@ if ($keuzePERS -eq "y") {
 
 Write-Host "Alle installaties zijn uitgevoerd!" -ForegroundColor green
 ```
+
 
 
 
