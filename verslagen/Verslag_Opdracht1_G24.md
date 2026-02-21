@@ -80,7 +80,7 @@ GrantMeStrength. (z.d.-a). install Command. Microsoft Learn. https://learn.micro
 Sdwheeler. (z.d.). about_Comparison_Operators - PowerShell. Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_comparison_operators?view=powershell-7.5
 
 
-####Installatie scipt - Saar Bieseman
+#### Installatie scipt - Saar Bieseman
 ```powershell
 #Automatiseren software-installatie
 Write-Host "Software voor System Engineering Lab"
@@ -120,6 +120,7 @@ if ($keuzePERS -eq "y") {
 
 Write-Host "Alle installaties zijn uitgevoerd!" -ForegroundColor green
 ```
+
 
 
 
